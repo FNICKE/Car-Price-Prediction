@@ -105,7 +105,7 @@ This project is open-source under the **MIT License**.
 ---
 ## 📞 Contact
 For any queries, contributions, or collaborations, feel free to reach out:
-- 📧 **Email**: rathodsachin@0766@gmail.com
+- 📧 **Email**: rathodsachin0766@gmail.com
 - 🔗 **GitHub**: [FNICKE](https://github.com/FNICKE)
 
 🚀 **Happy Coding & Keep Innovating!** 🚀
